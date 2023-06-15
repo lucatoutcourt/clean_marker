@@ -1,0 +1,13 @@
+Free font
+v.2.0.0
+Caps & lowercase for regular & italic
+Caps only for others
+Fixed metadata
+Better legibility with optical kerning and tracking=+10
+by Luca ARNAUD, 06/15/2023
+
+---
+Free font
+v.1.0.0
+Caps only
+by Luca ARNAUD, 06/09/2023
