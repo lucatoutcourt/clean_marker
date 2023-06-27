@@ -1,5 +1,16 @@
+VERSIONS NAMES HAVE CHANGED !!
 Free font
-v.2.0.0
+v.2.0
+Whole new design to show the handwritten legacy
+Caps only
+Best for titles and headings (printed)
+Improved kerning but still better with optical and increased tracking
+by Luca ARNAUD, 06/25/2023
+helped by François CHASTANET, teacher at isdaT
+
+---
+Free font
+v.1.1
 Caps & lowercase for regular & italic
 Caps only for others
 Fixed metadata
@@ -8,6 +19,6 @@ by Luca ARNAUD, 06/15/2023
 
 ---
 Free font
-v.1.0.0
+v.1.0
 Caps only
 by Luca ARNAUD, 06/09/2023
